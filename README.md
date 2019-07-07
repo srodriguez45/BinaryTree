@@ -1,6 +1,9 @@
 # Árbol binario
 Generar y consultar ancestros en un árbol binario, el puerto en los endpoints puede cambiar al momento de correr el proyecto de forma local.
 
+## Capas:
+Se utilizó una capa de modelos (DTO y lógica), una capa de presentación (Service) y un proyecto adicional de pruebas unitarias.
+
 ## Endpoint Crear un árbol binario a través de un listado de números
 Crear un árbol binario a través de un listado de enteros en el siguiente endpoint:
 
